@@ -32,3 +32,6 @@ https://career.guru99.com/top-25-python-interview-questions/
 
 Python Interview 10 questions from Corey Schafer
 https://www.youtube.com/watch?v=DEwgZNC-KyE
+
+# Practice Link
+https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
