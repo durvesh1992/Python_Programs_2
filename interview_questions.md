@@ -26,10 +26,9 @@ What happens if you have an error in an init statement?
 
 What happens in python if you try to divide by zero?
 
-How can you improve the following code?
+# How can you improve the following code?
 
 import string
-
 i = 0
 for letter in string.letters:
     print("The letter at index %i is %s" % (i, letter))
@@ -38,7 +37,7 @@ Bonus points for mentioning enumerate and use of str.format.
 
 How can you return multiple values from a function/method?
 
-Strategic Questions
+# Strategic Questions
 
 What's the fastest way to swap the values bound to two variables?
 
